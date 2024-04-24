@@ -1,0 +1,22 @@
+.container{
+    text-align: center; 
+    margin-top: 50px; 
+}
+ #color-box{
+    background-color: blue;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    position: relative;
+    left: 36em;
+    margin-bottom: 15px;
+ }
+
+ #change-color-btn{
+    height: 50px;
+    border-radius: 20%;
+    border: 0px;
+    background-color: gold;
+    color: aliceblue;
+    font-weight: bold;
+ }
